@@ -1,0 +1,28 @@
+# Kafka
+kafka-python==2.0.2
+confluent-kafka==2.1.1
+
+# Apache Flink
+apache-flink==1.17.0
+pyflink==1.17.0
+
+# AWS
+boto3==1.28.38
+botocore==1.31.38
+aws-lambda-powertools==2.22.0
+
+# Data Processing
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+requests==2.31.0
+pytest==7.4.0
+pytest-mock==3.11.1
+
+# Logging
+structlog==23.1.0
+python-json-logger==2.0.7 
