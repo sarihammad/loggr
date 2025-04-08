@@ -86,4 +86,3 @@ python storage/query_logs.py --service auth-service --start-time "2023-03-06T12:
 - `storage/`: DynamoDB and S3 integration
 - `alerts/`: SNS and Lambda functions for alerting
 - `config/`: Configuration settings
-- `tests/`: Unit and integration tests
