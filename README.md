@@ -1,4 +1,4 @@
-# Loggr: High-Throughput, Scalable Log Processing System
+# Loggr
 
 A real-time log processing system that can ingest, process, store, and analyze logs from distributed microservices while detecting anomalies. The system is fault-tolerant, highly available, and scalable using Kafka, Apache Flink, AWS S3, and DynamoDB.
 
